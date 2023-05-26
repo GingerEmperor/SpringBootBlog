@@ -104,7 +104,7 @@
 
     </dependencies>
     <properties>
-        <spring.version>2.2.7.RELEASE</spring.version>
+        <spring.version>2.5.15</spring.version>
     </properties>
 
 
